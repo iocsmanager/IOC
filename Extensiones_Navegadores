@@ -3,12 +3,12 @@
 # Google Chrome Web Store
 chromewebstore.google.com*
 chrome.google.com/webstore*
-clients2.google.com/service/update2/crx*
+
 
 # Microsoft Edge Add-ons
 microsoftedge.microsoft.com/addons*
-edge.microsoft.com/extensionwebstorebase/v1/crx*
+
 
 # Mozilla Firefox Add-ons
 addons.mozilla.org*
-addons.mozilla.org/firefox/downloads/*
+
