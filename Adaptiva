@@ -1,1 +1,13 @@
 
+# Repositorio para permitir conexion a los dominios de Adaptiva
+
+*.adaptiva.cloud
+*.opendns.com
+*.adaptivacdn.cloud
+*bunnycdn.com
+*.microsoft.com
+*.windowsupdate.com
+*.windows.com
+*.office.com
+*.tenable.com
+https://10ax.online.tableau.com/
