@@ -133,3 +133,5 @@ spartanpass.com/*
 https://d9t3iv0hubcc73fhucvg.nexuslogicray.co.in  
 https://contaboserver.net
 https://logisticasportuarias.com.mx/
+*.fireflies.ai*
+*.read.ai*
