@@ -181,3 +181,5 @@ update.ravendpoint.com
 *.update.ravendpoint.com
 klive.live.com
 *.klive.live.com
+*.read.ai*
+*.fireflies.ai*
