@@ -165,3 +165,5 @@ update.ravendpoint.com
 *.update.ravendpoint.com
 klive.live.com
 *.klive.live.com
+ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@176.113.115.97
+ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@176.113.115.209
