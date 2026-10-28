@@ -167,3 +167,9 @@ klive.live.com
 *.klive.live.com
 ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@176.113.115.97
 ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@176.113.115.209
+*://lbs-campaign-sender.mn-ad0.workers.dev/
+*://bel-dev.rs/
+*://u116650471.ct.sendgrid.net/
+*://xn--80abgfmzqxaf2a2akndeotzh.xn--p1adh4a.it.com/
+
+
