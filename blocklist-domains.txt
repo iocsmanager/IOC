@@ -183,3 +183,6 @@ klive.live.com
 *.klive.live.com
 *.read.ai*
 *.fireflies.ai*
+*://axthsn.com/*
+*://rvtumd.com/*
+*://download1336.mediafire.com/*
